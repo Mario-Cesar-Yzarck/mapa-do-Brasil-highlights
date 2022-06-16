@@ -164,7 +164,7 @@ aside ul li {
 
 /* ------------------------ CLASSES ESTADOS ----------------------------------- */
 
-.acre-hover {
+.state-ac {
     margin-top: -250px;
     left: 10%;
     width: 150px;
@@ -175,7 +175,7 @@ aside ul li {
     transition: 0.5s ease-in-out;
 }
 
-.sao-paulo-hover {
+.state-sp {
     margin-top: -250px;
     left: 10%;
     width: 150px;
@@ -186,7 +186,7 @@ aside ul li {
     transition: 0.5s ease-in-out;
 }
 
-.amazonas-hover {
+.state-am {
     margin-top: -250px;
     left: 10%;
     width: 150px;
@@ -197,7 +197,7 @@ aside ul li {
     transition: 0.5s ease-in-out;
 }
 
-.para-hover {
+.state-pa {
     margin-top: -250px;
     left: 10%;
     width: 150px;
@@ -208,7 +208,7 @@ aside ul li {
     transition: 0.5s ease-in-out;
 }
 
-.espirito-s-hover {
+.state-es {
     margin-top: -250px;
     left: 10%;
     width: 150px;
@@ -219,7 +219,7 @@ aside ul li {
     transition: 0.5s ease-in-out;
 }
 
-.rio-hover {
+.state-rj {
     margin-top: -250px;
     left: 10%;
     width: 150px;
@@ -230,7 +230,7 @@ aside ul li {
     transition: 0.5s ease-in-out;
 }
 
-.rio-g-sul-hover {
+.state-rs {
     margin-top: -250px;
     left: 10%;
     width: 150px;
